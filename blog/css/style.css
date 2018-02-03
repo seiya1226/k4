@@ -37,7 +37,9 @@ a > img:hover{
   background-color: #fff;
   border: solid 1px #9DB438;
 }
-
+div.k4{
+  display: flex;
+}
 
 /*-----トップタイトルのスタイル-----*/
 
